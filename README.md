@@ -4,5 +4,3 @@ This is a simple task tracking application. It is useful if you are required to 
 ## Features
 - Timestamps
 - Monthly sorted text files
-
-DID THIS WORK
